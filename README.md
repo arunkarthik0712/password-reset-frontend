@@ -21,7 +21,7 @@ This password reset flow application is built using the MERN stack (MongoDB, Exp
 
 ## Deployed URL:
 
-- **Frontend**: `https://arunkarthik0710-password-reset.netlify.app/`
+- **Frontend**: [https://arunkarthik0710-password-reset.netlify.app/](https://arunkarthik0710-password-reset.netlify.app/)
 - **Backend**: `https://password-reset-0z3h.onrender.com`
 
 ---
